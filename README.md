@@ -15,7 +15,7 @@
 </ul>
 </td>
 <td width="38%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/jYVpQCB687aXZwXNlC/giphy.gif" width="200" alt="" />
+  <img src="https://i.pinimg.com/originals/28/ff/89/28ff8926fc1b3d7cfd3281258d5f1542.gif" width="200" alt="" />
 </td>
 </tr>
 </table>
