@@ -15,7 +15,7 @@
 </ul>
 </td>
 <td width="38%" align="center" valign="middle">
-  <img src="https://i.pinimg.com/originals/28/ff/89/28ff8926fc1b3d7cfd3281258d5f1542.gif" width="200" alt="" />
+  <img src="https://media1.tenor.com/m/1cMgpg8N4GwAAAAd/yuno.gif" width="200" alt="" />
 </td>
 </tr>
 </table>
